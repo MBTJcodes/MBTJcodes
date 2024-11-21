@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MBTJcodes
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning advanced SQL
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested Product Management, Data analytics and Frontend development
+- 🌱 Skilled in dtata analytics, customer experience amd product management.
+- 💞️ I’m looking to collaborate on building exceptional products
 - 📫 You can reach me on michaeltijjani@gmail.com
 
 <!---
