@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MBTJcodes
 - 👀 I’m interested Product Management, Data analytics and Frontend development
-- 🌱 Skilled in dtata analytics, customer experience amd product management.
+- 🌱 Skilled in data analytics, customer service, customer experience and product management.
 - 💞️ I’m looking to collaborate on building exceptional products
 - 📫 You can reach me on michaeltijjani@gmail.com
 
